@@ -297,7 +297,7 @@ svg {
   width: 800px;
   height: 30%;
 }
-#fullerdiv{
+.fullerdiv{
   display: flex;
   justify-content: center;
 }
